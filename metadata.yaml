@@ -1,0 +1,29 @@
+_repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-24_5298
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - Fontaine, Jean de La
+    - De La Fontaine, Jean
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- Translations into English'
+- !lcsh 'Fables, French -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: The Indiscreet Confession -- The Contract -- The Quid Pro Quo, or
+  The Mistakes.
+title: Tales and Novels of J. de La Fontaine — Volume 24
+url: http://www.gutenberg.org/ebooks/5298
