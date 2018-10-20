@@ -1,5 +1,5 @@
 _repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-24_5298
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'French poetry -- Translations into English'
 - !lcsh 'Fables, French -- Translations into English'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: The Indiscreet Confession -- The Contract -- The Quid Pro Quo, or
   The Mistakes.
 title: Tales and Novels of J. de La Fontaine — Volume 24
